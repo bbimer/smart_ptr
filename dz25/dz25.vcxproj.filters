@@ -18,6 +18,9 @@
     <ClInclude Include="unique_ptr.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="shared_ptr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
